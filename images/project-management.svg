@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" fill="none">
+  <rect width="640" height="300" rx="18" fill="#F1F5F6"/>
+  <circle cx="540" cy="58" r="88" fill="#E4EBED"/>
+  <path d="M0 245h640" stroke="#D8E0E2"/>
+  <rect x="54" y="39" width="437" height="214" rx="10" fill="white" stroke="#DDE4E7"/>
+  <path d="M54 49a10 10 0 0 1 10-10h417a10 10 0 0 1 10 10v27H54V49Z" fill="#293E52"/>
+  <circle cx="73" cy="57" r="3" fill="#DC7838"/><circle cx="85" cy="57" r="3" fill="#8193A0"/><circle cx="97" cy="57" r="3" fill="#8193A0"/>
+  <rect x="119" y="53" width="86" height="7" rx="3.5" fill="#E7ECEF"/>
+  <rect x="73" y="95" width="95" height="8" rx="4" fill="#334A5C"/>
+  <rect x="73" y="117" width="346" height="1" fill="#E7ECEF"/>
+  <g fill="#83919A" font-family="Arial,sans-serif" font-size="8"><text x="74" y="135">PROJECT</text><text x="241" y="135">JAN 08</text><text x="296" y="135">JAN 15</text><text x="351" y="135">JAN 22</text><text x="406" y="135">JAN 29</text></g>
+  <g stroke="#EEF1F2"><path d="M228 121v109M283 121v109M338 121v109M393 121v109M448 121v109M73 151h376M73 185h376M73 219h376"/></g>
+  <g fill="#647580" font-family="Arial,sans-serif" font-size="9"><text x="74" y="157">Design development</text><text x="74" y="191">Shop drawings</text><text x="74" y="225">Field coordination</text></g>
+  <rect x="229" y="145" width="83" height="11" rx="5.5" fill="#749FBC"/>
+  <rect x="282" y="179" width="114" height="11" rx="5.5" fill="#DC916B"/>
+  <rect x="355" y="213" width="73" height="11" rx="5.5" fill="#76A894"/>
+  <rect x="485" y="174" width="102" height="58" rx="9" fill="#fff" stroke="#E1E7E9"/>
+  <circle cx="501" cy="193" r="5" fill="#69A88D"/><path d="m499 193 2 2 4-5" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="513" y="190" width="56" height="5" rx="2.5" fill="#455966"/>
+  <rect x="497" y="207" width="68" height="4" rx="2" fill="#D9E1E4"/>
+  <path d="m492 145 22-18 25 13 27-29 31 16" stroke="#DC7838" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="492" cy="145" r="4" fill="#DC7838"/><circle cx="514" cy="127" r="4" fill="#DC7838"/><circle cx="539" cy="140" r="4" fill="#DC7838"/><circle cx="566" cy="111" r="4" fill="#DC7838"/><circle cx="597" cy="127" r="4" fill="#DC7838"/>
+</svg>

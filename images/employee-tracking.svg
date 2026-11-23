@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 300" fill="none">
+  <rect width="640" height="300" rx="18" fill="#F1F5F6"/>
+  <circle cx="570" cy="45" r="83" fill="#E2EAEC"/>
+  <rect x="58" y="37" width="401" height="227" rx="11" fill="white" stroke="#DDE4E7"/>
+  <rect x="79" y="58" width="116" height="9" rx="4.5" fill="#334A5C"/>
+  <rect x="79" y="76" width="184" height="5" rx="2.5" fill="#D9E1E4"/>
+  <g fill="#6F7F89" font-family="Arial,sans-serif" font-size="8"><text x="80" y="111">TEAM MEMBER</text><text x="245" y="111">ASSIGNED</text><text x="340" y="111">STATUS</text></g>
+  <path d="M79 119h358M79 166h358M79 213h358" stroke="#EBEFF0"/>
+  <g><circle cx="91" cy="143" r="12" fill="#E5EBED"/><circle cx="91" cy="190" r="12" fill="#E5EBED"/><circle cx="91" cy="237" r="12" fill="#E5EBED"/></g>
+  <g fill="#7892A1"><path d="M82 148c1-5 4-7 9-7s8 2 9 7H82Z"/><circle cx="91" cy="138" r="4"/><path d="M82 195c1-5 4-7 9-7s8 2 9 7H82Z"/><circle cx="91" cy="185" r="4"/><path d="M82 242c1-5 4-7 9-7s8 2 9 7H82Z"/><circle cx="91" cy="232" r="4"/></g>
+  <g fill="#455966" font-family="Arial,sans-serif" font-size="9"><text x="110" y="146">Jordan R.</text><text x="110" y="193">Morgan L.</text><text x="110" y="240">Taylor S.</text></g>
+  <g fill="#929FA6" font-family="Arial,sans-serif" font-size="8"><text x="245" y="145">4 tasks</text><text x="245" y="192">3 tasks</text><text x="245" y="239">5 tasks</text></g>
+  <rect x="340" y="136" width="66" height="14" rx="7" fill="#E8F3ED"/><rect x="340" y="183" width="66" height="14" rx="7" fill="#FDF0E8"/><rect x="340" y="230" width="66" height="14" rx="7" fill="#E8F3ED"/>
+  <circle cx="350" cy="143" r="3" fill="#68A487"/><circle cx="350" cy="190" r="3" fill="#DC916B"/><circle cx="350" cy="237" r="3" fill="#68A487"/>
+  <g fill="#5E776B" font-family="Arial,sans-serif" font-size="7"><text x="357" y="146">On track</text><text x="357" y="193" fill="#A56543">Needs review</text><text x="357" y="240">On track</text></g>
+  <rect x="478" y="79" width="125" height="145" rx="11" fill="white" stroke="#DDE4E7"/>
+  <rect x="495" y="96" width="67" height="6" rx="3" fill="#405565"/>
+  <path d="M496 179v-22h17v22h-17Zm26 0v-47h17v47h-17Zm26 0v-35h17v35h-17Zm26 0v-59h17v59h-17Z" fill="#8AADC1"/>
+  <path d="M495 187h92" stroke="#DDE4E7"/>
+  <path d="m497 211 23-11 20 4 22-19 24 4" stroke="#DC7838" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="497" cy="211" r="3" fill="#DC7838"/><circle cx="520" cy="200" r="3" fill="#DC7838"/><circle cx="540" cy="204" r="3" fill="#DC7838"/><circle cx="562" cy="185" r="3" fill="#DC7838"/><circle cx="586" cy="189" r="3" fill="#DC7838"/>
+</svg>

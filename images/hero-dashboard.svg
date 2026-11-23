@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" fill="none">
+  <defs>
+    <linearGradient id="panel" x1="180" y1="50" x2="860" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#f4f8fc"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="900" height="520" filterUnits="userSpaceOnUse">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#071d34" flood-opacity=".22"/>
+    </filter>
+  </defs>
+  <g filter="url(#shadow)">
+    <rect x="12" y="12" width="876" height="496" rx="18" fill="url(#panel)" stroke="#d4e0ea" stroke-width="2"/>
+    <path d="M30 12h142v496H30a18 18 0 0 1-18-18V30a18 18 0 0 1 18-18Z" fill="#092b50"/>
+    <path d="M172 12h698a18 18 0 0 1 18 18v38H172V12Z" fill="#102f51"/>
+    <path d="M172 68h716" stroke="#dce5ed" stroke-width="2"/>
+  </g>
+  <path d="M39 37h25l14 14-14 14H39l14-14-14-14Z" fill="#f47a18"/>
+  <text x="86" y="57" fill="#fff" font-family="Arial,sans-serif" font-size="21" font-weight="700">DJM Tool</text>
+  <rect x="28" y="92" width="128" height="42" rx="8" fill="#1764df"/>
+  <circle cx="45" cy="113" r="7" stroke="#fff" stroke-width="2"/>
+  <path d="m41 113 3 3 6-7" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="61" y="117" fill="#fff" font-family="Arial,sans-serif" font-size="13" font-weight="700">Dashboard</text>
+  <g fill="#c6d4e2" font-family="Arial,sans-serif" font-size="13">
+    <text x="58" y="166">Projects</text>
+    <text x="58" y="207">Schedules</text>
+    <text x="58" y="248">Drawings</text>
+    <text x="58" y="289">Reports</text>
+    <text x="58" y="330">Settings</text>
+  </g>
+  <g stroke="#c6d4e2" stroke-width="2" stroke-linecap="round">
+    <path d="M38 160h12v12H38zM38 201h12v12H38zM38 242h12v12H38zM38 283h12v12H38zM38 324h12v12H38z"/>
+  </g>
+  <text x="202" y="111" fill="#122d49" font-family="Arial,sans-serif" font-size="24" font-weight="700">Project Dashboard</text>
+  <text x="202" y="137" fill="#6d7f91" font-family="Arial,sans-serif" font-size="13">Project schedules and milestones</text>
+  <rect x="748" y="91" width="108" height="34" rx="8" fill="#fff" stroke="#d5e0e9"/>
+  <text x="763" y="112" fill="#40566c" font-family="Arial,sans-serif" font-size="12" font-weight="700">All Projects</text>
+  <path d="m837 105 5 5 5-5" stroke="#40566c" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+  <rect x="196" y="156" width="668" height="316" rx="10" fill="#fff" stroke="#d8e2eb"/>
+  <path d="M196 201h668M196 246h668M196 291h668M196 336h668M196 381h668M196 426h668" stroke="#e4ebf1"/>
+  <path d="M401 156v316M477 156v316M553 156v316M629 156v316M705 156v316M781 156v316" stroke="#e4ebf1"/>
+  <g fill="#687b8f" font-family="Arial,sans-serif" font-size="11">
+    <text x="413" y="185">JUN 2025</text>
+    <text x="489" y="185">JUL 2025</text>
+    <text x="565" y="185">AUG 2025</text>
+    <text x="641" y="185">SEP 2025</text>
+    <text x="717" y="185">OCT 2025</text>
+    <text x="793" y="185">NOV 2025</text>
+    <text x="211" y="229">Steel Structure</text>
+    <text x="211" y="274">Warehouse</text>
+    <text x="211" y="319">Office Building</text>
+    <text x="211" y="364">Bridge Project</text>
+    <text x="211" y="409">Industrial Shed</text>
+    <text x="211" y="454">Commercial Complex</text>
+  </g>
+  <rect x="409" y="212" width="91" height="12" rx="6" fill="#2584f4"/>
+  <rect x="486" y="257" width="106" height="12" rx="6" fill="#ff951f"/>
+  <rect x="532" y="302" width="112" height="12" rx="6" fill="#53a56d"/>
+  <rect x="607" y="347" width="78" height="12" rx="6" fill="#9475df"/>
+  <rect x="628" y="392" width="127" height="12" rx="6" fill="#22a895"/>
+  <rect x="698" y="437" width="94" height="12" rx="6" fill="#e76f57"/>
+  <path d="M661 156v316" stroke="#ef5548" stroke-width="2" stroke-dasharray="6 5"/>
+</svg>
